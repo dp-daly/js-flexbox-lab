@@ -107,6 +107,10 @@
     font-weight: 500;
   }
 
+  #destinations p:hover {
+    color:#32ad7c
+  }
+
   #actions {
     display: flex;
     gap: 16px;
